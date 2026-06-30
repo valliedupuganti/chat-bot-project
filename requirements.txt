@@ -1,1 +1,5 @@
 
+gradio
+requests
+google-genai
+huggingface_hub
